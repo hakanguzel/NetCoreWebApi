@@ -1,0 +1,15 @@
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Core\bin\Debug\netcoreapp3.1\BasicApi.Core.deps.json
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Core\bin\Debug\netcoreapp3.1\BasicApi.Core.dll
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Core\bin\Debug\netcoreapp3.1\BasicApi.Core.pdb
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Core\obj\Debug\netcoreapp3.1\BasicApi.Core.csprojAssemblyReference.cache
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Core\obj\Debug\netcoreapp3.1\BasicApi.Core.AssemblyInfoInputs.cache
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Core\obj\Debug\netcoreapp3.1\BasicApi.Core.AssemblyInfo.cs
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Core\obj\Debug\netcoreapp3.1\BasicApi.Core.dll
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Core\obj\Debug\netcoreapp3.1\BasicApi.Core.pdb
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Core\bin\Debug\netcoreapp3.1\BasicApi.Core.runtimeconfig.json
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Core\bin\Debug\netcoreapp3.1\BasicApi.Core.runtimeconfig.dev.json
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Core\obj\Debug\netcoreapp3.1\BasicApi.Core.genruntimeconfig.cache
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Core\bin\Debug\netcoreapp3.1\BasicApi.Data.dll
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Core\bin\Debug\netcoreapp3.1\BasicApi.Data.pdb
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Core\obj\Debug\netcoreapp3.1\BasicApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Core\obj\Debug\netcoreapp3.1\BasicApi.Core.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Data\bin\Debug\netcoreapp3.1\BasicApi.Data.deps.json
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Data\bin\Debug\netcoreapp3.1\BasicApi.Data.dll
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Data\obj\Debug\netcoreapp3.1\BasicApi.Data.csprojAssemblyReference.cache
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Data\obj\Debug\netcoreapp3.1\BasicApi.Data.AssemblyInfoInputs.cache
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Data\obj\Debug\netcoreapp3.1\BasicApi.Data.AssemblyInfo.cs
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Data\bin\Debug\netcoreapp3.1\BasicApi.Data.pdb
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Data\obj\Debug\netcoreapp3.1\BasicApi.Data.dll
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Data\obj\Debug\netcoreapp3.1\BasicApi.Data.pdb
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Data\obj\Debug\netcoreapp3.1\BasicApi.Data.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Business\bin\Debug\netcoreapp3.1\BasicApi.Business.deps.json
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Business\bin\Debug\netcoreapp3.1\BasicApi.Business.dll
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Business\bin\Debug\netcoreapp3.1\BasicApi.Business.pdb
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Business\obj\Debug\netcoreapp3.1\BasicApi.Business.csprojAssemblyReference.cache
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Business\obj\Debug\netcoreapp3.1\BasicApi.Business.AssemblyInfoInputs.cache
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Business\obj\Debug\netcoreapp3.1\BasicApi.Business.AssemblyInfo.cs
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Business\obj\Debug\netcoreapp3.1\BasicApi.Business.dll
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Business\obj\Debug\netcoreapp3.1\BasicApi.Business.pdb
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Business\bin\Debug\netcoreapp3.1\BasicApi.Data.dll
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Business\bin\Debug\netcoreapp3.1\BasicApi.Data.pdb
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Business\obj\Debug\netcoreapp3.1\BasicApi.Business.csproj.CopyComplete
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Business\bin\Debug\netcoreapp3.1\BasicApi.Core.dll
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Business\bin\Debug\netcoreapp3.1\BasicApi.Core.pdb
+C:\Users\Hakan\source\repos\BasicApi\BasicApi.Business\obj\Debug\netcoreapp3.1\BasicApi.Business.csproj.CoreCompileInputs.cache
